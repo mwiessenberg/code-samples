@@ -1,0 +1,3 @@
+== Statics ==
+
+Why you should be careful when using statics...

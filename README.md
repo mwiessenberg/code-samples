@@ -1,0 +1,3 @@
+== Code Examples ==
+
+Several little code snippets to demonstrate nice, and not-so-nice coding...
